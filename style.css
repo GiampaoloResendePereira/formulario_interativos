@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
+.fundo{
+    background-color: skyblue;
+    width: 500px;
+    height: 350px;
+}
+
+.input-box input{
+    margin: 0.6rem o;
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px #0000001c;
+}
+.centralizar{
+
+}
